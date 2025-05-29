@@ -17,7 +17,7 @@ This project showcases professional experience, skills, and contact information 
 ---
 
 ## 📁 Project Structure
-
+```bash
 bio_portfolio_NEW/
 ├── css/
 │ └── styles.css
@@ -29,7 +29,7 @@ bio_portfolio_NEW/
 │ └── build-a-personal-portfolio-webpage.txt
 ├── index.html
 └── .vscode/
-
+```
 
 ---
 
